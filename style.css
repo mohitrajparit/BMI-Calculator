@@ -1,0 +1,63 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* heading */
+
+.heading{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 100px;
+}
+
+
+/* inputs */
+
+.inp1{
+    display: inline-block;
+    margin-left: 5%;
+    font-size: 30px;
+}   
+input,textarea{
+    background-color: antiquewhite;
+}
+
+.inp2{
+    display: inline-block;
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 30px;
+    background-color: antiquewhite;
+}
+/* button */
+.btn{
+    display: block;
+    margin-top: 5%;
+    margin-left: 40%;
+    font-size: larger;
+    border-radius: 10%;
+    background-color: rgb(236, 202, 157)
+}
+
+/* output */
+.op{
+    /* margin-left: 30%; */
+    text-align: center;
+    font-size: larger;
+    margin-top: 50px;
+    font-size: 50px;
+    margin-bottom: 5%;
+}
+
+p{
+    font-size: 25px;
+    text-align: center;
+}
+/* footer */
+
+footer{
+    text-align: center;
+    margin-top: 200px;
+}
